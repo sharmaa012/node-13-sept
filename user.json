@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Lauren",
+        "last_name": "Dolligon",
+        "email": "ldolligon0@gmpg.org",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Nessy",
+        "last_name": "Schankelborg",
+        "email": "nschankelborg1@rakuten.co.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Floyd",
+        "last_name": "Ivushkin",
+        "email": "fivushkin2@nsw.gov.au",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Teodoro",
+        "last_name": "Elstob",
+        "email": "telstob3@admin.ch",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Rozamond",
+        "last_name": "Goodings",
+        "email": "rgoodings4@oracle.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Myrta",
+        "last_name": "Yukhnev",
+        "email": "myukhnev5@123-reg.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Kathleen",
+        "last_name": "Taplow",
+        "email": "ktaplow6@hubpages.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 8,
+        "first_name": "Jenelle",
+        "last_name": "Tather",
+        "email": "jtather7@google.nl",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Isidore",
+        "last_name": "Popley",
+        "email": "ipopley8@booking.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Leilah",
+        "last_name": "Denyagin",
+        "email": "ldenyagin9@mlb.com",
+        "gender": "Female"
+    }
+]
